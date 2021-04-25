@@ -1,1 +1,6 @@
 *.asd
+*.ini
+Backup/
+Ableton Project Info/
+*.ico
+*.cfg
